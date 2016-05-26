@@ -1,4 +1,0 @@
-GTK_PATH=/usr/local/lib/gtk-2.0
-LANG=en_US.UTF-8
-PKG_CONFIG_PATH=/usr/local/Cellar/gtk+/2.24.30/lib/pkgconfig
-
